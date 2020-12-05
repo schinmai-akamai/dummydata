@@ -1,8 +1,9 @@
 {
-    "data" : {
+    "data" : [{
         "schinmai" : "low",
         "saurabhs" : "medium",
         "svora" : "high",
         "ctrecker" : "low" 
     }
+    ]
 }

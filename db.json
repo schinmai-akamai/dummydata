@@ -1,6 +1,8 @@
 {
-  "schinmai" : "low",
-  "saurabhs" : "medium",
-  "svora" : "high",
-  "ctrecker" : "low"
+    "data" : {
+        "schinmai" : "low",
+        "saurabhs" : "medium",
+        "svora" : "high",
+        "ctrecker" : "low" 
+    }
 }
